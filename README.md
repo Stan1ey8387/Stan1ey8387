@@ -1,6 +1,13 @@
 ## 👨‍💻 Hello, I'm Zakhar!
 I am an iOS Developer. I am passionate about technologies and love to learn new things.
 
+## 🤖 Hackatons
+
+- e-legion 2021: 4th place
+- more.tech 3.0: 10th place
+
+## ℹ️ Info
+
 <img src="https://user-images.githubusercontent.com/28134310/153576620-02cb0ceb-29a7-498d-b11a-c9cae0c10ccc.png" width="70%"></img> 
 
 
